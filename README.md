@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/i̇smail cal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇smail cal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismail-cal-05b286236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismail-cal-05b286236/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailcal21&show_icons=true&locale=en&layout=compact" alt="ismailcal21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailcal21&" alt="ismailcal21" /></p>
+
